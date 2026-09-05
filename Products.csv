@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price,stock_qty,reorder_level
+VRP001,Basmati Rice 1kg,Grocery,125.0,35,10
+VRP002,Wheat Flour 5kg,Grocery,245.0,18,8
+VRP003,Sugar 1kg,Grocery,52.0,20,8
+VRP004,Toor Dal 1kg,Grocery,165.0,14,6
+VRP005,Cooking Oil 1L,Grocery,148.0,9,10
+VRP006,Iodized Salt 1kg,Grocery,28.0,40,12
+VRP007,Orange Juice 1L,Beverages,110.0,16,8
+VRP008,Cola 750ml,Beverages,45.0,24,10
+VRP009,Mineral Water 1L,Beverages,22.0,50,15
+VRP010,Instant Coffee 100g,Beverages,185.0,6,6
+VRP011,Green Tea 25 Bags,Beverages,140.0,11,5
+VRP012,Full Cream Milk 1L,Dairy,68.0,12,12
+VRP013,Curd 400g,Dairy,42.0,17,7
+VRP014,Butter 100g,Dairy,62.0,8,5
+VRP015,Paneer 200g,Dairy,95.0,0,4
+VRP016,Cheese Slices 200g,Dairy,135.0,5,5
+VRP017,Salted Biscuits 200g,Packaged Food,35.0,32,10
+VRP018,Potato Chips 90g,Packaged Food,40.0,21,8
+VRP019,Instant Noodles Pack,Packaged Food,18.0,45,15
+VRP020,Tomato Ketchup 500g,Packaged Food,105.0,13,6
+VRP021,Breakfast Cereal 500g,Packaged Food,210.0,7,7
+VRP022,Bath Soap 125g,Personal Care,38.0,28,10
+VRP023,Shampoo 180ml,Personal Care,135.0,15,6
+VRP024,Toothpaste 150g,Personal Care,92.0,19,8
+VRP025,Handwash 250ml,Personal Care,85.0,4,6
+VRP026,Face Wash 100ml,Personal Care,160.0,10,5
+VRP027,Floor Cleaner 1L,Household & Cleaning,175.0,0,5
+VRP028,Dishwash Liquid 500ml,Household & Cleaning,99.0,16,7
+VRP029,Laundry Detergent 1kg,Household & Cleaning,145.0,9,9
+VRP030,Garbage Bags Pack,Household & Cleaning,70.0,22,8
